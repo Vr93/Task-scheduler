@@ -1,0 +1,2 @@
+flask
+git+https://github.com/ks93/xlogger.git#egg=xlogger
